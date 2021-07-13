@@ -1,5 +1,5 @@
 const Eris = require("eris");
-let bot = new Eris("ODY0NjIxOTYxODA4MDUyMjc0.YO4H8w.igSbktFY33eu_8kl4KAWR09wvgs");
+let bot = new Eris("");
 let prefix = ".";
 
 bot.on("ready", () => {
